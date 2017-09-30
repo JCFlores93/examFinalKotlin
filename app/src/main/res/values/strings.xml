@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FinalProjectKotlinBasic</string>
+    <string name="gravity">right</string>
+    <string name="textDirection">ltr</string>
+</resources>
